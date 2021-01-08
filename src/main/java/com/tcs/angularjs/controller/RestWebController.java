@@ -28,7 +28,7 @@ public class RestWebController {
     }
  
   @RequestMapping(value = "/aaa", method = RequestMethod.GET)
-    public List<Customer> aaa(){
+    public String aaa(){
         return "nippa is the best";
     }
 }
