@@ -1,0 +1,10 @@
+com\tcs\angularjs\model\Customer.class
+com\tcs\angularjs\controller\RestWebController.class
+com\tcs\angularjs\controller\InpurRequest.class
+com\tcs\angularjs\controller\DBConfig.class
+com\tcs\angularjs\controller\MainRepo.class
+com\tcs\angularjs\controller\MainService.class
+com\tcs\angularjs\controller\OutputRequest.class
+com\tcs\angularjs\controller\WebController.class
+com\tcs\angularjs\controller\MainClass.class
+com\tcs\angularjs\MyAwesomeSpringBootAngularJsApp.class
