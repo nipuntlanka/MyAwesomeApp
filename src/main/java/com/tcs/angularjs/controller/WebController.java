@@ -10,4 +10,9 @@ public class WebController {
     public String homepage(){
         return "index";
     }
+ 
+     @RequestMapping(value="/aa",method = RequestMethod.GET)
+    public String test(){
+        return "aaaaa";
+    }
 }
