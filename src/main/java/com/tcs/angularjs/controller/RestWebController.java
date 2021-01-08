@@ -26,4 +26,9 @@ public class RestWebController {
         
         return "Sucessful!";
     }
+ 
+  @RequestMapping(value = "/aaa", method = RequestMethod.GET)
+    public List<Customer> aaa(){
+        return cust;
+    }
 }
