@@ -9,10 +9,5 @@ public class WebController {
     @RequestMapping(value="/",method = RequestMethod.GET)
     public String homepage(){
         return "index";
-    }
- 
-     @RequestMapping(value="/aa",method = RequestMethod.GET)
-    public String test(){
-        return "aaaaa";
-    }
+    } 
 }
